@@ -1,0 +1,29 @@
+
+/*
+based on everylayout.dev 
+- rely on CSS cascade 
+-  
+- 
+
+*/ 
+
+/*
+
+*/ 
+
+* {
+    box-sizing: border-box;
+    max-inline-size: 80ch;
+    font-size: calc(1rem + 0.5vw);
+}
+
+
+body {
+background-color: hsl(331 100% 0%); 
+}
+
+
+h1 {
+    font-size: 8.5rem; 
+    color: hsl(0, 0%, 95%); 
+}
